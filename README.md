@@ -7,7 +7,7 @@
 This project was created using Docker to studying the basic concepts of Python learned at day 01 and day 02 in the **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)**. 
 
 ## Summary
-**Day 03:** Learning how to deal with if/elsa statements
+**Day 03:** Learning how to deal with if/else statements
 
 ## How to run this project
 This project was created with Docker, the Dockerfile is:
